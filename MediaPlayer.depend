@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575016644 source:c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\main.cpp
+	<iostream>
+
+1575019747 source:c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\src\player.cpp
+	"Player.h"
+	<iostream>
+	<vector>
+
+1575018782 c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\include\player.h
+	<iostream>
+	<vector>
+
