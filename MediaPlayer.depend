@@ -1,13 +1,29 @@
 # depslib dependency file v1.0
-1575016644 source:c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\main.cpp
+1575025906 source:c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\main.cpp
 	<iostream>
+	"Player.h"
+	<algorithm>
 
-1575019747 source:c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\src\player.cpp
+1575024209 source:c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\src\player.cpp
 	"Player.h"
 	<iostream>
 	<vector>
 
-1575018782 c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\include\player.h
+1575025211 c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\include\player.h
 	<iostream>
 	<vector>
+	"State.h"
+
+1575020399 source:c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\src\state.cpp
+	"State.h"
+
+1575025191 c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\include\state.h
+	"Player.h"
+	"StoppedState.h"
+
+1575025612 c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\include\stoppedstate.h
+	<State.h>
+
+1575025682 source:c:\users\yaniu\desktop\codeblock\test1\proj_shape\mediaplayer\src\stoppedstate.cpp
+	"stoppedState.h"
 
